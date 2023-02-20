@@ -1,4 +1,4 @@
-# Ef7BulkOperations
+# Ef7 Bulk Operations
 
 The bulk operation is one of the major features of EF introduced by Entity Framework 7. The main attention of EF7 is dragged by its introducing features “ExecuteUpdate” and “ExecuteDelete” as well as async versions of them.
 
